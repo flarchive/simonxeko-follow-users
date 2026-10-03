@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of simonxeko/follow-users.** Not for installation: use [Packagist](https://packagist.org/packages/simonxeko/follow-users) or the [upstream repository](https://github.com/simonxeko/follow-users).
 
-**0** versions archived · Latest: [`0.3.5`](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.3.5) · License: `MIT` · Flarum: `^0.1.0-beta.10`
+**9** versions archived · Latest: [`0.3.5`](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.3.5) · License: `MIT` · Flarum: `^0.1.0-beta.10`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-06-27 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.1.0) |
+| `0.2.0` | 2019-06-28 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.2.0) |
+| `0.2.1` | 2019-09-08 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.2.1) |
+| `0.3.0` | 2019-10-16 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.3.0) |
+| `0.3.1` | 2019-11-01 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.3.1) |
+| `0.3.2` | 2019-11-02 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.3.2) |
+| `0.3.3` | 2019-11-02 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.3.3) |
+| `0.3.4` | 2019-11-02 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.3.4) |
+| `0.3.5` | 2020-01-26 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/simonxeko-follow-users/tree/archive/v0.3.5) |
 
 Catalog entry: [packages/simonxeko-follow-users.json](https://github.com/flarchive/archive-index/blob/main/packages/simonxeko-follow-users.json)
 
